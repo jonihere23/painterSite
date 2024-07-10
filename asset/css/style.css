@@ -128,3 +128,49 @@ span{
 .cardCustom{
     margin: 75px 0px;
 }
+.quote-img{
+    height: 500px;
+    width: 1100px;
+}
+
+.container-quote{
+    background-image: url("../img/quote.jpg");
+    background-size: cover;
+}
+
+.container-quote{
+
+}
+.team_members{
+    margin-top: 300px;
+    margin-bottom: 10px;
+}
+.heading_members{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.line-members{
+    border-bottom: 2px solid #ffdb63;
+    width: 100px;
+    
+}
+.card_paint{
+    position: relative;
+
+}
+.card_body_text{
+    position: absolute;
+    bottom: -60px;
+    left: 35px;
+    background-color: #ffdb63;
+    width: 220px;
+    text-align: center;
+    
+}
+
+.last{
+    margin-top: 150px;
+    background-color:#ffdb63 ;
+}
